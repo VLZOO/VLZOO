@@ -81,7 +81,7 @@ infrastructure:
 #### 🥧 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLZOO&layout=donut&theme=radical&hide_border=true" />
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,py,java)](https://skillicons.dev)
 </div>
 
 ---
