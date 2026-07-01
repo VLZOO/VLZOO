@@ -79,7 +79,7 @@ infrastructure:
 <div align="center">
 
 
-### 🥧 **Most Used Languages**
+### 🥧 Most Used Languages
 
 <table>
   <tr>
@@ -108,7 +108,10 @@ infrastructure:
     <td>20%</td>
   </tr>
 </table>
-
+<h3 align="left">🛠 Technologies & Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,java,mysql,git,react,html,css" />
+</p>
 
 ---
 
