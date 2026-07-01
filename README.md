@@ -12,14 +12,14 @@
 
 ### 🚀 About Me
 
-- 🤖 Building **Discord bots** with custom features, automation, and moderation systems
-- 🖥️ Developing **desktop tools** and utilities for real-world workflows
-- 🛡️ Built a **Network Traffic Analyzer / Anti-DDoS Tool** for monitoring and mitigating malicious traffic
-- 🧱 Built a **Mini Web Application Firewall (WAF)** to inspect and filter incoming web requests
-- 💻 Full-stack web development — building store websites with custom admin panels for order & user management
-- ⚙️ Also experienced in backend server infrastructure, network architecture, and DevOps
-- 📚 Constantly reverse-engineering, debugging, and optimizing real production systems rather than just toy projects
-- 🌐 Check out more of my work on my **[Portfolio](https://vahidreza-portfolio.vercel.app/)**
+- Building **Discord bots** with custom features, automation, and moderation systems
+- Developing **desktop tools** and utilities for real-world workflows
+- Built a **Network Traffic Analyzer / Anti-DDoS Tool** for monitoring and mitigating malicious traffic
+- Built a **Mini Web Application Firewall (WAF)** to inspect and filter incoming web requests
+- Full-stack web development — building store websites with custom admin panels for order & user management
+- Also experienced in backend server infrastructure, network architecture, and DevOps
+- Constantly reverse-engineering, debugging, and optimizing real production systems rather than just toy projects
+- Check out more of my work on my **[Portfolio](https://vahidreza-portfolio.vercel.app/)**
 
 ---
 
@@ -53,6 +53,12 @@ desktop_tools:
   - Standalone desktop applications & utilities
   - Network Traffic Analyzer / Anti-DDoS Tool
   - Mini Web Application Firewall (WAF)
+
+minecraft_dev:
+  - Custom Minecraft plugin development (Java / Paper API)
+  - Advanced server systems (economy, matchmaking, party/friend systems)
+  - Anti-cheat & exploit prevention systems
+  - Network & proxy-based architectures (Velocity / BungeeCord
 
 web_dev:
   - Store front-ends with custom admin panels
