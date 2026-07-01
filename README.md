@@ -71,7 +71,7 @@ infrastructure:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VLZOO&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VLZOO&layout=compact&theme=radical&hide_border=true&langs_count=5" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VLZOO&theme=radical&hide_border=true" />
 
 </div>
