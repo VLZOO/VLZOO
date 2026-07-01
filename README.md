@@ -78,11 +78,10 @@ infrastructure:
 
 <div align="center">
 
-#### 🥧 Most Used Languages
+### 🥧 **Most Used Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLZOO&layout=donut&theme=radical&hide_border=true" />
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,py,java)](https://skillicons.dev)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER_NAME&layout=compact&hide_langs=html,css&langs_count=5&theme=react&hide_border=true)
+
 
 ---
 
