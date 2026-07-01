@@ -78,9 +78,36 @@ infrastructure:
 
 <div align="center">
 
+
 ### 🥧 **Most Used Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER_NAME&layout=compact&hide_langs=html,css&langs_count=5&theme=react&hide_border=true)
+<table>
+  <tr>
+    <td width="150"><b>JavaScript</b></td>
+    <td width="300"><img src="https://geps.dev/progress/85" alt="85%"></td>
+    <td>85%</td>
+  </tr>
+  <tr>
+    <td><b>PHP</b></td>
+    <td><img src="https://geps.dev/progress/80" alt="80%"></td>
+    <td>80%</td>
+  </tr>
+  <tr>
+    <td><b>TypeScript</b></td>
+    <td><img src="https://geps.dev/progress/75" alt="75%"></td>
+    <td>75%</td>
+  </tr>
+  <tr>
+    <td><b>Python</b></td>
+    <td><img src="https://geps.dev/progress/75" alt="75%"></td>
+    <td>75%</td>
+  </tr>
+  <tr>
+    <td><b>Java</b></td>
+    <td><img src="https://geps.dev/progress/20" alt="20%"></td>
+    <td>20%</td>
+  </tr>
+</table>
 
 
 ---
