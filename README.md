@@ -4,7 +4,7 @@
 
 ### Software Developer • Full Stack • Minecraft Server Architect • DevOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+MegaMC.IR+%E2%80%94+a+multi-mode+Minecraft+network;BungeeCord+%2F+Velocity+proxy+architecture;BedWars1058+plugin+dev+%26+debugging;Full+Stack+Web+%2B+Admin+Panels;Always+shipping%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Bot+Engineer;Discord+Bot+Development;Desktop+Tools+%26+Security+Utilities;Network+Traffic+Analyzer+%2F+Anti-DDoS+Tool;Mini+Web+Application+Firewall+(WAF);Always+shipping%2C+always+learning" alt="Typing SVG" />
 
 </div>
 
@@ -12,11 +12,14 @@
 
 ### 🚀 About Me
 
-- 🎮 Developer & Administrator of **[MegaMC.IR](https://megamc.ir)** — a multi-mode Minecraft network built on a BungeeCord/Velocity proxy architecture
-- 🛠️ Deep experience customizing and debugging **BedWars1058**, anti-cheat systems (Volcan, NoCheatPlus, Matrix), and cross-server plugin communication
-- 💻 Building a full-stack store website (with an admin panel for orders & users) for a computer repair & accessories business
-- 🌐 Comfortable across the stack — backend plugin development, server infrastructure, and frontend web design
+- 🤖 Building **Discord bots** with custom features, automation, and moderation systems
+- 🖥️ Developing **desktop tools** and utilities for real-world workflows
+- 🛡️ Built a **Network Traffic Analyzer / Anti-DDoS Tool** for monitoring and mitigating malicious traffic
+- 🧱 Built a **Mini Web Application Firewall (WAF)** to inspect and filter incoming web requests
+- 💻 Full-stack web development — building store websites with custom admin panels for order & user management
+- ⚙️ Also experienced in backend server infrastructure, network architecture, and DevOps
 - 📚 Constantly reverse-engineering, debugging, and optimizing real production systems rather than just toy projects
+- 🌐 Check out more of my work on my **[Portfolio](https://vahidreza-portfolio.vercel.app/)**
 
 ---
 
@@ -42,20 +45,22 @@
 ### ⚙️ What I Work With
 
 ```yaml
-minecraft_dev:
-  - BungeeCord / Velocity proxy networks (lobby + backend servers)
-  - BedWars1058 customization & cross-server sync
-  - Anti-cheat tuning: Volcan, NoCheatPlus, Matrix
-  - LuckPerms + PlaceholderAPI + Vault integrations
-  - Custom plugin architecture (SQLite / MySQL backed)
+bot_development:
+  - Custom Discord bots (automation, moderation, integrations)
+  - Event-driven architecture & API integrations
+
+desktop_tools:
+  - Standalone desktop applications & utilities
+  - Network Traffic Analyzer / Anti-DDoS Tool
+  - Mini Web Application Firewall (WAF)
 
 web_dev:
   - Store front-ends with custom admin panels
   - Order & user management systems
   - Custom themed UI/UX (loading screens, transitions)
 
-devops:
-  - VPS management & hardening
+infrastructure:
+  - Server & VPS management, hardening
   - Auto-recovery / auto power-on after outages
   - Security-first configuration practices
 ```
@@ -66,13 +71,17 @@ devops:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VLZOO&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLZOO&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VLZOO&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VLZOO&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VLZOO&theme=radical&hide_border=true" />
+
+#### 🥧 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLZOO&layout=pie&theme=radical&hide_border=true" />
+
 </div>
 
 ---
@@ -81,11 +90,12 @@ devops:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/MegaMC.IR-2ECC71?style=for-the-badge&logo=minecraft&logoColor=white)](https://megamc.ir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white)](https://vahidreza-portfolio.vercel.app/)
+[![Links](https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://guns.lol/vlzo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VLZOO)
 
 </div>
 
 <div align="center">
-<sub>⚡ Currently building: cross-server BedWars shop GUI syncing across a Bungee/Velocity network</sub>
+<sub>⚡ Currently building: full-stack tools, bots, and network security utilities</sub>
 </div>
