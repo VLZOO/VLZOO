@@ -108,8 +108,7 @@ infrastructure:
     <td>20%</td>
   </tr>
 </table>
-<h3 align="left">🛠 Technologies & Tools</h3>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,py,java,mysql,git,react,html,css" />
 </p>
 
