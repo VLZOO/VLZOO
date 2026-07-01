@@ -80,7 +80,7 @@ infrastructure:
 
 #### 🥧 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLZOO&layout=pie&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLZOO&layout=donut&theme=radical&hide_border=true" />
 
 </div>
 
